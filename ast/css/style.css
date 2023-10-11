@@ -9,4 +9,9 @@
     .top_navbar{
         box-shadow: 0 0 20px rgb(158, 163, 158) !important;
     }
+
+    #top_actions_section{
+        display: flex !important;
+        align-items: center !important;
+    }
 }
